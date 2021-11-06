@@ -1,5 +1,4 @@
-# INM702_Coursework_Task_1
-Martin Koder 200010886
+# Compare Dijkstra, Heuristically Guided and Ant-Colony Algorithms solving an integer maze problem
 
 **Instructions**  
 1. Run the whole notebook  and read the descriptions
